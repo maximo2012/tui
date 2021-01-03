@@ -243,7 +243,7 @@ import (
 
 	// Both TUI packages are abbreviated to avoid making the code
 	// overly verbose.
-	t "github.com/gizak/termui"
+	t "github.com/gizak/termui/v3"
 	c "github.com/jroimartin/gocui"
 	"github.com/pkg/errors"
 )
